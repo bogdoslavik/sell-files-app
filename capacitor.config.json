@@ -1,0 +1,6 @@
+{
+  "appId": "sellfile.io",
+  "appName": "sell-file",
+  "webDir": "www",
+  "bundledWebRuntime": false
+}
