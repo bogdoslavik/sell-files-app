@@ -1,7 +1,7 @@
 {
-  "name": "myapp",
+  "name": "sell-file",
   "version": "0.0.1",
-  "description": "An Ionic project",
+  "description": "Sell your files for crypto!",
   "devDependencies": {
     "@ionic/v1-toolkit": "^1.0.0",
     "gulp": "^3.5.6",

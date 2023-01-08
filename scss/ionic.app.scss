@@ -1,6 +1,6 @@
 $button-border-radius: 32px;
 $ionicons-font-path: "../lib/ionic/fonts" !default;
-@import "../www/lib/ionic/scss";
+@import "../www/lib/ionic/scss/ionic";
 .coupons {
 	height: 48px;
 }
@@ -9,7 +9,7 @@ $ionicons-font-path: "../lib/ionic/fonts" !default;
 	.text-input {
 		text-align: center;
 	}
-	
+
 }
 body.platform-ios {
 	font-family: Montserrat, sans-serif;
@@ -30,4 +30,3 @@ body.platform-android {
 h1,h2,h3,h4,h5,h6,.h1,.h2,.h3,.h4,.h5,.h6,.tab-item,input,button,select,textarea {
 	font-family: inherit;
 }
-
